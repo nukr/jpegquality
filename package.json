@@ -1,7 +1,8 @@
 {
   "name": "jpegquality",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "",
+  "repository": "https://github.com/nukr/jpegquality",
   "main": "./lib/jpegquality.js",
   "scripts": {
     "test": "NODE_ENV=test mocha __test__/jpegquality.js"
